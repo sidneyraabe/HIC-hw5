@@ -7,7 +7,7 @@ python encrypt.py <text>
 
 The cipher text is hard-coded to shift letters by 3 positions.
 
-[!NOTE]
+**Note**
 If text contains spaces, enclose text with quotation marks: ```" "```
 
 ## Decrypt Usage:
