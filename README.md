@@ -1,5 +1,7 @@
 # Shift cipher example
 
+This is a small homework assignment for my HIC class.
+
 ## Encrypt Usage:
 ``` 
 python encrypt.py <text>
